@@ -1,0 +1,7 @@
+C:\Users\analu\OneDrive\Escritorio\Ejercicio2.2 6439059\Ejercicio2.2 6439059\obj\Debug\Ejercicio2.2 6439059.csproj.AssemblyReference.cache
+C:\Users\analu\OneDrive\Escritorio\Ejercicio2.2 6439059\Ejercicio2.2 6439059\obj\Debug\Ejercicio2.2 6439059.csproj.CoreCompileInputs.cache
+C:\Users\analu\OneDrive\Escritorio\Ejercicio2.2 6439059\Ejercicio2.2 6439059\bin\Debug\Ejercicio2.2 6439059.exe.config
+C:\Users\analu\OneDrive\Escritorio\Ejercicio2.2 6439059\Ejercicio2.2 6439059\bin\Debug\Ejercicio2.2 6439059.exe
+C:\Users\analu\OneDrive\Escritorio\Ejercicio2.2 6439059\Ejercicio2.2 6439059\bin\Debug\Ejercicio2.2 6439059.pdb
+C:\Users\analu\OneDrive\Escritorio\Ejercicio2.2 6439059\Ejercicio2.2 6439059\obj\Debug\Ejercicio2.2 6439059.exe
+C:\Users\analu\OneDrive\Escritorio\Ejercicio2.2 6439059\Ejercicio2.2 6439059\obj\Debug\Ejercicio2.2 6439059.pdb
