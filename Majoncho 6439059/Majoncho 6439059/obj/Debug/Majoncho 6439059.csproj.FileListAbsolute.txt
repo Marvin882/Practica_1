@@ -1,0 +1,10 @@
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\bin\Debug\Majoncho 6439059.exe.config
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\bin\Debug\Majoncho 6439059.exe
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\bin\Debug\Majoncho 6439059.pdb
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\obj\Debug\Majoncho 6439059.csproj.AssemblyReference.cache
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\obj\Debug\Majoncho_6439059.Form1.resources
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\obj\Debug\Majoncho_6439059.Properties.Resources.resources
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\obj\Debug\Majoncho 6439059.csproj.GenerateResource.cache
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\obj\Debug\Majoncho 6439059.csproj.CoreCompileInputs.cache
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\obj\Debug\Majoncho 6439059.exe
+C:\Users\analu\OneDrive\Escritorio\Majoncho 6439059\Majoncho 6439059\obj\Debug\Majoncho 6439059.pdb
